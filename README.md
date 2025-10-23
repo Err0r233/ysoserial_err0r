@@ -1,0 +1,2 @@
+# ysoserial_err0r
+一个简单魔改的ysoserial，支持base64输出和raw bytes保存到本地
