@@ -10,3 +10,7 @@ java -jar ysoserial-0.0.6-SNAPSHOT-all.jar [payloadType] 'Command'
 
 同时还为ysoserial加了部分payload，例如jackson和fastjson1、fastjson2原生反序列化
 编译版本为java8，记得使用java8环境打开
+
+ 使用截图：
+<img width="1730" height="924" alt="image" src="https://github.com/user-attachments/assets/acf58716-51bd-497f-a9c9-93ca820afad6" />
+
