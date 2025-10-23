@@ -14,6 +14,6 @@ java -jar ysoserial.jar [PayloadType] 'Command'
 
 使用例：
 
-![image](.\pic\05ff692c-73e6-4d98-8cda-e6a5774304c0.png)
+![image](./pic/05ff692c-73e6-4d98-8cda-e6a5774304c0.png)
 
 jar包编译环境为java8，请使用java8打开
